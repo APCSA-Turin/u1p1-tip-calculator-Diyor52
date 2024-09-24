@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TipCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-24T00:43:51" hostname="codespaces-ce965d" time="0.066">
+<testsuite name="com.example.project.TipCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-24T00:48:17" hostname="codespaces-ce965d" time="0.056">
   <properties/>
-  <testcase name="testCalculateTip2()" classname="com.example.project.TipCalculatorTest" time="0.061"/>
-  <testcase name="testCalculateTip3()" classname="com.example.project.TipCalculatorTest" time="0.002"/>
-  <testcase name="testCalculateTip()" classname="com.example.project.TipCalculatorTest" time="0.001"/>
+  <testcase name="testCalculateTip2()" classname="com.example.project.TipCalculatorTest" time="0.042"/>
+  <testcase name="testCalculateTip3()" classname="com.example.project.TipCalculatorTest" time="0.005"/>
+  <testcase name="testCalculateTip()" classname="com.example.project.TipCalculatorTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
